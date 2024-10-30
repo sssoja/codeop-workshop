@@ -19,8 +19,7 @@ Link the related issue here, if applicable:
 
 ### Screenshots (if applicable)
 
-Add any relevant screenshots to help reviewers understand the changes:
-![Screenshot Description](url-to-screenshot)
+Add any relevant screenshots to help reviewers understand the changes
 
 ### Checklist
 
