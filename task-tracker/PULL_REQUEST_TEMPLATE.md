@@ -19,7 +19,7 @@ Link the related issue here, if applicable:
 
 ### Screenshots (if applicable)
 
-Add any relevant screenshots to help reviewers understand the changes
+Add any relevant screenshots to help reviewers understand the changes and a link to the page if helpful.
 
 ### Checklist
 
