@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "description": "Milk, eggs, bread, cheese",
+    "dueDate": "2024-11-01",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Finish project report",
+    "description": "Summarize Q3 findings",
+    "dueDate": "2024-11-05",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Clean the house",
+    "description": "Living room and kitchen",
+    "dueDate": "2024-11-02",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Book dentist appointment",
+    "description": "Schedule for next week",
+    "dueDate": "2024-11-03",
+    "completed": true
+  },
+  {
+    "id": 5,
+    "title": "Prepare presentation",
+    "description": "Slides for client meeting",
+    "dueDate": "2024-11-10",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "title": "Read book",
+    "description": "Finish 'Atomic Habits'",
+    "dueDate": "2024-11-11",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "title": "Water the plants",
+    "description": "All indoor plants",
+    "dueDate": "2024-11-04",
+    "completed": true
+  },
+  {
+    "id": 8,
+    "title": "Workout session",
+    "description": "Yoga and cardio",
+    "dueDate": "2024-11-01",
+    "completed": false
+  },
+  {
+    "id": 9,
+    "title": "Car service",
+    "description": "Oil change and tire check",
+    "dueDate": "2024-11-15",
+    "completed": false
+  },
+  {
+    "id": 10,
+    "title": "Send invoice to client",
+    "description": "Invoice for project X",
+    "dueDate": "2024-11-06",
+    "completed": true
+  },
+  {
+    "id": 11,
+    "title": "Study React hooks",
+    "description": "Research useEffect and useState",
+    "dueDate": "2024-11-08",
+    "completed": false
+  },
+  {
+    "id": 12,
+    "title": "Grocery shopping",
+    "description": "Weekly groceries",
+    "dueDate": "2024-11-03",
+    "completed": false
+  },
+  {
+    "id": 13,
+    "title": "Renew gym membership",
+    "description": "Monthly renewal",
+    "dueDate": "2024-11-12",
+    "completed": false
+  },
+  {
+    "id": 14,
+    "title": "Plan weekend trip",
+    "description": "Look up places to visit",
+    "dueDate": "2024-11-07",
+    "completed": true
+  },
+  {
+    "id": 15,
+    "title": "Submit assignment",
+    "description": "Submit by 5 PM",
+    "dueDate": "2024-11-04",
+    "completed": false
+  },
+  {
+    "id": 16,
+    "title": "Call Mom",
+    "description": "Catch up and check in",
+    "dueDate": "2024-11-05",
+    "completed": true
+  },
+  {
+    "id": 17,
+    "title": "Organize desk",
+    "description": "Declutter and organize files",
+    "dueDate": "2024-11-01",
+    "completed": false
+  },
+  {
+    "id": 18,
+    "title": "Watch tutorial",
+    "description": "React basics on YouTube",
+    "dueDate": "2024-11-02",
+    "completed": false
+  },
+  {
+    "id": 19,
+    "title": "Go for a run",
+    "description": "3-mile morning run",
+    "dueDate": "2024-11-01",
+    "completed": false
+  },
+  {
+    "id": 20,
+    "title": "Meal prep for the week",
+    "description": "Prepare lunch and dinner",
+    "dueDate": "2024-11-03",
+    "completed": true
+  },
+  {
+    "id": 21,
+    "title": "Visit the bank",
+    "description": "Deposit check",
+    "dueDate": "2024-11-06",
+    "completed": false
+  },
+  {
+    "id": 22,
+    "title": "Finish coding project",
+    "description": "Add final features",
+    "dueDate": "2024-11-09",
+    "completed": false
+  },
+  {
+    "id": 23,
+    "title": "Reply to emails",
+    "description": "Respond to pending emails",
+    "dueDate": "2024-11-01",
+    "completed": true
+  },
+  {
+    "id": 24,
+    "title": "Organize photo album",
+    "description": "Arrange recent photos",
+    "dueDate": "2024-11-08",
+    "completed": false
+  },
+  {
+    "id": 25,
+    "title": "Laundry",
+    "description": "Wash and fold clothes",
+    "dueDate": "2024-11-02",
+    "completed": true
+  },
+  {
+    "id": 26,
+    "title": "Write blog post",
+    "description": "Topic: Productivity tips",
+    "dueDate": "2024-11-10",
+    "completed": false
+  },
+  {
+    "id": 27,
+    "title": "Buy new shoes",
+    "description": "Look for running shoes",
+    "dueDate": "2024-11-07",
+    "completed": false
+  },
+  {
+    "id": 28,
+    "title": "Prepare dinner for guests",
+    "description": "Plan and cook dinner",
+    "dueDate": "2024-11-03",
+    "completed": true
+  },
+  {
+    "id": 29,
+    "title": "Test app functionality",
+    "description": "Debug final module",
+    "dueDate": "2024-11-09",
+    "completed": false
+  },
+  {
+    "id": 30,
+    "title": "Review pull requests",
+    "description": "Check teammates' code",
+    "dueDate": "2024-11-05",
+    "completed": true
+  },
+  {
+    "id": 31,
+    "title": "Set up new project repo",
+    "description": "Initialize repository",
+    "dueDate": "2024-11-06",
+    "completed": false
+  },
+  {
+    "id": 32,
+    "title": "Research Node.js libraries",
+    "description": "Find libraries for project",
+    "dueDate": "2024-11-08",
+    "completed": false
+  },
+  {
+    "id": 33,
+    "title": "Update LinkedIn profile",
+    "description": "Add recent achievements",
+    "dueDate": "2024-11-07",
+    "completed": true
+  },
+  {
+    "id": 34,
+    "title": "Walk the dog",
+    "description": "Evening walk",
+    "dueDate": "2024-11-01",
+    "completed": false
+  },
+  {
+    "id": 35,
+    "title": "Fix website bug",
+    "description": "Resolve loading issue",
+    "dueDate": "2024-11-10",
+    "completed": false
+  },
+  {
+    "id": 36,
+    "title": "Attend team meeting",
+    "description": "Monthly sync-up",
+    "dueDate": "2024-11-04",
+    "completed": true
+  },
+  {
+    "id": 37,
+    "title": "Install software updates",
+    "description": "Update laptop OS",
+    "dueDate": "2024-11-05",
+    "completed": false
+  },
+  {
+    "id": 38,
+    "title": "Create wireframes",
+    "description": "Draft for new project",
+    "dueDate": "2024-11-08",
+    "completed": false
+  },
+  {
+    "id": 39,
+    "title": "Buy gift for friend",
+    "description": "Friend's birthday",
+    "dueDate": "2024-11-07",
+    "completed": true
+  },
+  {
+    "id": 40,
+    "title": "Write unit tests",
+    "description": "Add tests for main components",
+    "dueDate": "2024-11-09",
+    "completed": false
+  },
+  {
+    "id": 41,
+    "title": "Clean kitchen",
+    "description": "Wipe surfaces and mop",
+    "dueDate": "2024-11-03",
+    "completed": false
+  },
+  {
+    "id": 42,
+    "title": "Plan family trip",
+    "description": "Research destinations",
+    "dueDate": "2024-11-06",
+    "completed": false
+  },
+  {
+    "id": 43,
+    "title": "Back up laptop files",
+    "description": "Transfer to external drive",
+    "dueDate": "2024-11-01",
+    "completed": true
+  },
+  {
+    "id": 44,
+    "title": "Schedule performance review",
+    "description": "Arrange meeting with manager",
+    "dueDate": "2024-11-04",
+    "completed": false
+  },
+  {
+    "id": 45,
+    "title": "Paint living room",
+    "description": "Choose new color scheme",
+    "dueDate": "2024-11-15",
+    "completed": false
+  },
+  {
+    "id": 46,
+    "title": "Fix broken fence",
+    "description": "Repair wooden panels",
+    "dueDate": "2024-11-08",
+    "completed": false
+  },
+  {
+    "id": 47,
+    "title": "Design new logo",
+    "description": "Sketch concepts",
+    "dueDate": "2024-11-10",
+    "completed": true
+  },
+  {
+    "id": 48,
+    "title": "Finalize app design",
+    "description": "Confirm layout with team",
+    "dueDate": "2024-11-03",
+    "completed": false
+  },
+  {
+    "id": 49,
+    "title": "Read new research article",
+    "description": "Topic: AI ethics",
+    "dueDate": "2024-11-09",
+    "completed": true
+  },
+  {
+    "id": 50,
+    "title": "Update resume",
+    "description": "Add latest job",
+    "dueDate": "2024-11-05",
+    "completed": false
+  }
+]
